@@ -1,6 +1,4 @@
-1)  add(a, b) adds two numbers and returns the result:
-     ReferenceError: add is not defined
-      at Context.<anonymous> (test/index-test.js:9:3)
+1 + 80 // 81
 
   2)  subtract(a, b) subtracts b from a and returns the result:
      ReferenceError: subtract is not defined
